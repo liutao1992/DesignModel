@@ -1,3 +1,5 @@
+package Strategy;
+
 /**
  * @author liutao
  */
